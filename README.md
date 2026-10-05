@@ -1,6 +1,6 @@
 # Claude Dual Account
 
-**Two Claude accounts on one computer, one session list.**
+![Before: a personal and a work Claude account each show only their own sessions. After: both show one shared session list.](assets/social-preview.png)
 
 If you use two Claude accounts on the same computer, for example a personal and a work account, the Claude desktop app shows each account only its own sessions in the Code tab. This tool makes both accounts show the same session list. Switch account, open any session, and continue it with its full context.
 
